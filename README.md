@@ -3,7 +3,13 @@
 ## How to use?
 
 * Download PyTorch:
-[Official PyTorch website](http://pytorch.org/ "pytorch") here, according to your hardware device to select.
+  [Official PyTorch website](http://pytorch.org/ "pytorch")
+  
+  or using command line:
+  ```
+  conda install pytorch torchvision -c pytorch
+  # MacOS Binaries dont support CUDA, install from source if CUDA is needed
+  ```
 
 * With pip:
 ```
@@ -16,7 +22,8 @@ pip3 install --upgrade gensim
 ## Overview
 Ten answers choices are given. Select the best answer to complete the sentence.
   
-  * Example: (save the text below as txt. file under the project folder.)
+  * Example: 
+  (save the text below as txt. file under the project folder.)
   ```
   1 Longman , the third , looked at the others over his shoulder .
   2 Goldband , the fourth , had a gold sash round his waist ; and little Playman did nothing at all , and was the more proud .
