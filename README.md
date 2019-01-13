@@ -22,9 +22,9 @@
 ## Overview
 Ten answers choices are given. Select the best answer to complete the sentence.
   
-  * Example: 
+  * Example
   
-    (save the text below as txt. file under the project folder.)
+    Create a text file and save in folder as follows:
     ```
     1 Longman , the third , looked at the others over his shoulder .
     2 Goldband , the fourth , had a gold sash round his waist ; and little Playman did nothing at all , and was the more proud .
@@ -48,6 +48,9 @@ Ten answers choices are given. Select the best answer to complete the sentence.
     20 cried out one , as he pricked himself with the Darning-needle ; ` he is a fine fellow though ! ' '
     21 I XXXXX not a fellow ; I am a young lady ! '	am		am|born|find|picking|pricked|said|sat|seems|streamed|thinking
     ```
+    
+  * Results
+    ![demo](https://paper.dropbox.com/ep/redirect/image?url=https%3A%2F%2Fd2mxuefqeaa7sj.cloudfront.net%2Fs_127CBBA6A9EA8424F22BA54BC969B2435420FD291CB2561914CBEFE4DF268823_1547139714345_%2B2019-01-11%2B1.01.44.png&hmac=%2BJHsR9HgoID2tOOnUCLFQerNrz0y5KI2FIj0tZ7D8n4%3D)
 
 ## Reference
   * BERT model: https://github.com/huggingface/pytorch-pretrained-BERT
