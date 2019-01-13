@@ -3,6 +3,7 @@
 ## How to use?
 
 * Download PyTorch:
+
   [Official PyTorch website](http://pytorch.org/ "pytorch")
   
   or using command line:
@@ -12,17 +13,18 @@
   ```
 
 * With pip:
-```
-pip install pytorch-pretrained-bert
-```
-```
-pip3 install --upgrade gensim
-```
+  ```
+  pip install pytorch-pretrained-bert
+  ```
+  ```
+  pip3 install --upgrade gensim
+  ```
 
 ## Overview
 Ten answers choices are given. Select the best answer to complete the sentence.
   
   * Example: 
+  
   (save the text below as txt. file under the project folder.)
   ```
   1 Longman , the third , looked at the others over his shoulder .
