@@ -2,10 +2,10 @@
 
 ## How to use?
 
-### Download pytorch:
-[official pytorch website](http://pytorch.org/ "pytorch") according to your hardware device.
+* Download PyTorch:
+[Official PyTorch website](http://pytorch.org/ "pytorch") here, according to your hardware device to select.
 
-### With pip:
+* With pip:
 ```
 pip install pytorch-pretrained-bert
 ```
