@@ -5,9 +5,13 @@ Please download the official pytorch website (http://pytorch.org/) according to 
 
 With pip:
 
-``pip install pytorch-pretrained-bert``
+```
+pip install pytorch-pretrained-bert
+```
 
-`pip3 install --upgrade gensim`
+```
+pip3 install --upgrade gensim
+```
 
 ## Overview
 
