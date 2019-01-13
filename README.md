@@ -4,8 +4,10 @@
 Please download the official pytorch website (http://pytorch.org/) according to your hardware device.
 
 With pip:
+<p>
 `pip install pytorch-pretrained-bert`
-```pip3 install --upgrade gensim```
+  </p>
+`pip3 install --upgrade gensim`
 
 ## Overview
 
