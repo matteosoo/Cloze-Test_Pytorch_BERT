@@ -5,7 +5,7 @@ Please download the official pytorch website (http://pytorch.org/) according to 
 
 With pip:
 
-```
+```python
 pip install pytorch-pretrained-bert
 ```
 
