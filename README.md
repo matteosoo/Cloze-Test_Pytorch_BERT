@@ -50,7 +50,7 @@ Ten answers choices are given. Select the best answer to complete the sentence.
     ```
     
   * Results
-    ![demo](https://paper.dropbox.com/ep/redirect/image?url=https%3A%2F%2Fd2mxuefqeaa7sj.cloudfront.net%2Fs_127CBBA6A9EA8424F22BA54BC969B2435420FD291CB2561914CBEFE4DF268823_1547139714345_%2B2019-01-11%2B1.01.44.png&hmac=%2BJHsR9HgoID2tOOnUCLFQerNrz0y5KI2FIj0tZ7D8n4%3D)
+    
 
 ## Reference
   * BERT model: https://github.com/huggingface/pytorch-pretrained-BERT
