@@ -50,6 +50,7 @@ Ten answers choices are given. Select the best answer to complete the sentence.
     ```
     
   * Results
+    ![demo_result](https://github.com/matteosoo/Cloze-Test_Pytorch_BERT/blob/master/img/demo_result.png)
     
 
 ## Reference
