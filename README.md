@@ -48,6 +48,9 @@ Ten answers choices are given. Select the best answer to complete the sentence.
     20 cried out one , as he pricked himself with the Darning-needle ; ` he is a fine fellow though ! ' '
     21 I XXXXX not a fellow ; I am a young lady ! '	am		am|born|find|picking|pricked|said|sat|seems|streamed|thinking
     ```
+    * The XXXXX in the 21th sentence is the target we want to predict.
+    * Also, the example in 21th sentence 'am' is the answer in this question. You could change it whether the token you want.
+    * The end of the 21th sentence are given 10 probable selections.
     
   * Results
   
