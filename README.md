@@ -1,4 +1,5 @@
 # Cloze-Test_Pytorch_BERT
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteosoo/Cloze-Test_Pytorch_BERT/blob/master/demo_tutorial.ipynb]
 
 ## How to use?
 
